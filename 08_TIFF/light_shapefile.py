@@ -1,8 +1,8 @@
 #%%
 # ==============================================================================
-#  Program: pm10_shapefile_y
-#  Creator: Wang
-#  Created: 2020//02/14
+#  Program: light_shapefile
+#  Creator: Lin
+#  Created: 2021/08
 #  Updated: Lin
 #  Purpose: 1.畫出368個township的light
 # =============================================================================
