@@ -1,3 +1,3 @@
 Purpose:  
-Calculate GWR of GHANA.
-See data_refine
+Calculate GWR of GHANA.  
+See data_refine.
